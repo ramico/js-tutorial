@@ -1,6 +1,6 @@
 # js-tutorial
 
-- can be used to create interactive web applications
+Can be used to create interactive web applications
 
 ### `<script>`
   
