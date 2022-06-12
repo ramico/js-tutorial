@@ -11,7 +11,7 @@ Can be used to create interactive web applications
 
 decarer variables useing `var`
 
-operators
+### operators
 
 ![Screenshot 2022-06-12 122901](https://user-images.githubusercontent.com/97400721/173226825-fa5b029c-fc5e-4bb7-ba5a-a7520cf93354.png)
 
