@@ -22,7 +22,7 @@
     res = ++i + 2;
     // is equivelant to
     i = i + 1;
-    res = i +2;
+    res = i + 2;
   ```
 #### i++
   ``` js
