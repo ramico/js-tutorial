@@ -40,7 +40,7 @@
 * condition e.g `i < 10` make sure that the confition turns false at a certin point.
 * itration what moves the varaible to the next stage e.g `i++`.
 
-> choose `for` when you know each etration haw it srara and incremented ALWAYS by certin amount
+> choose `for` when you know each etration haw it srars and incremented ALWAYS by certin amount
 
 > Choose `while` when not knowing exsactly the itrator increments procces  
 
