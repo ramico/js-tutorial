@@ -8,6 +8,8 @@
   > Always bear in mind summarizing techniques and [Yoda conditions](https://en.wikipedia.org/wiki/Yoda_conditions#Example)
 ### ?: Tunary operator
   A [Syntactic sugar](https://www.techopedia.com/definition/10212/syntactic-sugar) for assigning variable regarding a condition.
+    
+![Screenshot 2022-06-12 122901](https://user-images.githubusercontent.com/97400721/173324596-e2e79047-df77-4771-b874-3eeaada0aca7.png)
 
 ### Switch
   Use this branching technique when handling equal comparisons.
