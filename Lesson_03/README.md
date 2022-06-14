@@ -25,7 +25,7 @@ Think of return as *Cartesian level*
 
 > ![key-features-of-linear-function-graphs-2-768x767](https://user-images.githubusercontent.com/97400721/173545290-918a262a-47e6-485d-b4da-80efa7b59483.png)
 
-when ever we ask for **X** = value we know what correspons the **Y** axis
+Whenever we ask for **X** = value we know what correspons the **Y** axis
 
 ## Objects
 
