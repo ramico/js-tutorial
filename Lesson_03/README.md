@@ -23,6 +23,8 @@ function doStuff(parametter){
 
 Think of return as *Cartesian level*
 
+> ![key-features-of-linear-function-graphs-2-768x767](https://user-images.githubusercontent.com/97400721/173545290-918a262a-47e6-485d-b4da-80efa7b59483.png)
+
 when ever we ask for **X** = value we know what correspons the **Y** axis
 
 ## Objects
@@ -33,7 +35,7 @@ An object is a standalone entity, with properties{atributes} and values{state} p
 
 either lierary using syntax `{prop:value}` or using constructor `function Person(name){this.name=name}`
 
-> properties *attrivbtes*  are accessed by either *Dot notation* o r*Square brackets property access: object['property']* 
+> properties *attrivbtes*  are accessed by either *Dot notation* &rarr; obj.ptop or *Square brackets property access* &rarr; object['property'] 
 
 The property can be a function *behavior* uses `this` keyword to refer itself.
 
