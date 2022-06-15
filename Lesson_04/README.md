@@ -34,7 +34,7 @@ for (var i = 0; i < twoDim.length; i++) {
 
 ### Date and Math 
 
-Both are objects in javascript Date uses a constructor Math doesn't check the pictures directory.
+Both are objects in javascript Date uses a constructor Math doesn't check the [pictures](https://github.com/icon-ramico/js-tutorial/tree/main/Lesson_04/pictures) directory.
 
 Javascript [reference](https://www.w3schools.com/jsref/default.asp) for other objects
 
