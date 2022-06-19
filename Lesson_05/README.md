@@ -6,7 +6,7 @@
 * it be better to use `const` *constant*  for other declerations
 * when using const on objects **The only constant is the Object itself** meanning you can modify it's contents
 
-**[HOISTING](https://www.youtube.com/watch?v=AplVrrwY1TI)** hposting which means that declarations do/do not move to the top of the current execution context.
+**[HOISTING](https://www.youtube.com/watch?v=AplVrrwY1TI)** hoisting which means that declarations do/do not move to the top of the current execution context.
 
 ## Arrow Functions lambda functions/expression
 
