@@ -23,9 +23,9 @@ splits the collection entities into multiple arguments with a shorter syntex
 **[SPREAD OPERATOR](https://www.youtube.com/watch?v=pYI-UuZVtHI)**
 
 ## Final references 
-ES6 - ecmascript 6 comes with many new loops 
-for ... in
-for ... of
+ES6 - ecmascript 6 comes with many new loops <br />
+[for ... in](https://www.w3schools.com/js/js_loop_forin.asp) <br />
+[for ... of](https://www.w3schools.com/js/js_loop_forof.asp)
 
 ### Array functions 
 
@@ -40,4 +40,4 @@ Function | Usage
 [foreach](https://www.w3schools.com/jsref/jsref_foreach.asp)| Calls a function for each element returns nothing
 [map](https://www.w3schools.com/jsref/jsref_map.asp) | returns a modified version of the array
 
-Attas has many usfull functions other than these; these take a cake
+Attas has many other usfull looping functions than these; these take a cake.
