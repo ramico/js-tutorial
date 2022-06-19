@@ -36,7 +36,7 @@ Function | Usage
 --- | ---
 [filter](https://www.w3schools.com/jsref/jsref_filter.asp) | returns an array that meat a certin confition
 [find](https://www.w3schools.com/jsref/jsref_find.asp)| find the first Accirence of an element in an array 
-[fundIndex](https://www.w3schools.com/jsref/jsref_findindex.asp) | returns the index of the first met condition
+[findIndex](https://www.w3schools.com/jsref/jsref_findindex.asp) | returns the index of the first met condition
 [foreach](https://www.w3schools.com/jsref/jsref_foreach.asp)| Calls a function for each element returns nothing
 [map](https://www.w3schools.com/jsref/jsref_map.asp) | returns a modified version of the array
 
