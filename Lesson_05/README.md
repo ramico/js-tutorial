@@ -1,4 +1,4 @@
-# js-tutorial Lesson 5 ES6
+# js-tutorial Lesson 5 ES6 - ECMASCRIPT 6 
 
 ## Notes on var(old), let, const
 

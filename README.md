@@ -7,4 +7,5 @@
 [Lesson 2](https://github.com/icon-ramico/js-tutorial/tree/main/Lesson_02) | Branching and Looping
 [Lesson 3](https://github.com/icon-ramico/js-tutorial/tree/main/Lesson_03) | Functions and Objects
 [Lesson 4](https://github.com/icon-ramico/js-tutorial/tree/main/Lesson_04) | Core Objects and DOM 
+[Lesson 5](https://github.com/icon-ramico/js-tutorial/tree/main/Lesson_05) | ES6 - ECMASCRIPT 6 
 
